@@ -2,7 +2,7 @@
 
 Welcome to the Green Horizon Boart Safari Management System! This innovative solution revolutionizes the way boart safari companies manage their operations and serve their customers. Developed with PHP, HTML, CSS, and JavaScript, and utilizing XAMPP for local hosting, our system offers a seamless experience for administrators and customers alike.
 
-![Boart Safari](boart_safari_image.jpg)
+![boart_safari_image.jpg](https://github.com/prabashwara65/Boat-Safari-Management-System/blob/main/img/Greenhorizon.png)
 *Experience the thrill of boart safaris with Green Horizon*
 
 ## Features
