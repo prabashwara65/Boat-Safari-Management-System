@@ -16,7 +16,8 @@ Welcome to the Green Horizon Boart Safari Management System! This innovative sol
 
 As part of the development team, my focus was on crafting the reservation module. Leveraging the power of CSS Flexbox, I designed a visually appealing and responsive interface that enhances the overall user experience. The Flexbox layout ensures that elements within the reservation system adapt dynamically to different screen sizes and device types, providing a seamless booking process for our customers.
 
-![Reservation Module]([reservation_module_image.jpg](img/Reservation.png))
+![Reservation](https://github.com/prabashwara65/Boat-Safari-Management-System/raw/main/img/Reservation.png)
+
 *Experience seamless booking with our intuitive reservation module*
 
 ## Installation
