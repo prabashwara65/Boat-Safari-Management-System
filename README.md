@@ -12,6 +12,13 @@ Welcome to the Green Horizon Boart Safari Management System! This innovative sol
 - **Easy to Navigate**: User-friendly interface ensures smooth navigation through the booking process.
 - **Customizable Packages**: Choose from a variety of safari packages tailored to your preferences.
 
+## My Contribution: Reservation Module
+
+As part of the development team, my focus was on crafting the reservation module. Leveraging the power of CSS Flexbox, I designed a visually appealing and responsive interface that enhances the overall user experience. The Flexbox layout ensures that elements within the reservation system adapt dynamically to different screen sizes and device types, providing a seamless booking process for our customers.
+
+![Reservation Module](reservation_module_image.jpg)
+*Experience seamless booking with our intuitive reservation module*
+
 ## Installation
 
 To set up the Green Horizon Boart Safari Management System on your local machine, follow these steps:
